@@ -1,0 +1,25 @@
+{
+  "name": "planner-report-generator",
+  "version": "1.0.0",
+  "description": "Report generator tool for Microsoft Planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiasVini/planner-report-generator.git"
+  },
+  "keywords": [
+    "Planner",
+    "Report",
+    "Tool",
+    "Microsoft"
+  ],
+  "author": "Vini Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiasVini/planner-report-generator/issues"
+  },
+  "homepage": "https://github.com/DiasVini/planner-report-generator#readme"
+}
